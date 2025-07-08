@@ -1,0 +1,36 @@
+{
+  "name": "chidocode",
+  "displayName": "ChidoCode",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ChidoCode Theme Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ChidoCode Theme-Dark-theme.json"
+      },
+      {
+        "label": "ChidoCode Theme Light",
+        "uiTheme": "vs",
+        "path": "./themes/ChidoCode Theme-Light-theme.json"
+      },
+      {
+        "label": "ChidoCode Theme Papel Picado",
+        "uiTheme": "vs",
+        "path": "./themes/ChidoCode Theme-Picado-theme.json"
+      },
+      {
+        "label": "ChidoCode Theme Papel Picado Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ChidoCode Theme-Picado-dark-theme.json"
+      }
+    ]
+  }
+}
