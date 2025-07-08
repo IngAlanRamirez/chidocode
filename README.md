@@ -11,16 +11,19 @@
 - 🎊 **ChidoCode Theme Papel Picado**
 - 🌙 **ChidoCode Theme Papel Picado Dark**
 
+## Vista previa
+
+| Dark | Light |
+|------|-------|
+| ![ChidoCode Dark](screenshots/ChidoCodeDark.png) | ![ChidoCode Light](screenshots/ChidoCodeLight.png) |
+| ![Papel Picado Dark](screenshots/PapelPicadoDark.png) | ![Papel Picado Light](screenshots/PapelPicadoLight.png) |
+
 ## ¿Por qué ChidoCode?
 
 - Colores vivos y alegres, pero suaves para no cansar la vista.
 - Inspiración en el arte popular mexicano: papel picado, cempasúchil, bugambilias, talavera y más.
 - Soporte para la mayoría de los lenguajes y sintaxis.
 - ¡Ideal para quienes quieren que su editor se vea tan chido como su código!
-
-## Vista previa
-
-> ¡Próximamente screenshots! 📸
 
 ## Instalación
 
