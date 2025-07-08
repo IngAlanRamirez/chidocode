@@ -1,16 +1,38 @@
-# chidocode README
+# 🇲🇽 ChidoCode Themes
 
-## Working with Markdown
+¡Bienvenido a **ChidoCode**! 🎉
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+> Temas de Visual Studio Code inspirados en el colorido y la alegría del papel picado y la cultura mexicana. Perfectos para programar con sabor, alegría y mucho estilo.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Temas incluidos
 
-## For more information
+- 🌑 **ChidoCode Theme Dark**
+- ☀️ **ChidoCode Theme Light**
+- 🎊 **ChidoCode Theme Papel Picado**
+- 🌙 **ChidoCode Theme Papel Picado Dark**
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## ¿Por qué ChidoCode?
 
-**Enjoy!**
+- Colores vivos y alegres, pero suaves para no cansar la vista.
+- Inspiración en el arte popular mexicano: papel picado, cempasúchil, bugambilias, talavera y más.
+- Soporte para la mayoría de los lenguajes y sintaxis.
+- ¡Ideal para quienes quieren que su editor se vea tan chido como su código!
+
+## Vista previa
+
+> ¡Próximamente screenshots! 📸
+
+## Instalación
+
+1. Abre la paleta de comandos (`Ctrl+Shift+P` o `Cmd+Shift+P`).
+2. Escribe `Preferencias: Color Theme` y selecciona tu tema ChidoCode favorito.
+3. ¡Listo! A programar con alegría 🇲🇽
+
+## Créditos y agradecimientos
+
+- Inspirado en la cultura, colores y tradiciones de México.
+- Hecho con 💚, café y mucha creatividad.
+
+---
+
+¡Que tu código sea tan colorido y alegre como el papel picado! 🎨🪅
